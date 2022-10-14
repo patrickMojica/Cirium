@@ -1,0 +1,352 @@
+[
+ {
+   "flight_number": "98",
+   "airline": "AA",
+   "departure_airport": "SEA",
+   "departure_time": "12:01 UTC",
+   "arrival_airport": "DFW",
+   "arrival_time": "15:20 UTC",
+   "crew": {
+     "pilot": "Inna Pentecust",
+     "copilot": "Kelley Berndtsson",
+     "attendants": ["Locke Casali", "Karilynn Enderwick", "Fletcher Southam"]
+   },
+   "passenger_count": 91
+ },
+ {
+   "flight_number": "139D",
+   "airline": "UA",
+   "departure_airport": "LAS",
+   "departure_time": "12:29 UTC",
+   "arrival_airport": "ATL",
+   "arrival_time": "15:54 UTC",
+   "crew": {
+     "pilot": "Dex Moreing",
+     "copilot": "Legra Plumbridge",
+     "attendants": ["Philly Florez", "Valentine Frankowski", "Catarina Dumper"]
+   },
+   "passenger_count": 104
+ },
+ {
+   "flight_number": "146",
+   "airline": "UA",
+   "departure_airport": "ATL",
+   "departure_time": "16:27 UTC",
+   "arrival_airport": "DFW",
+   "arrival_time": "18:19 UTC",
+   "crew": {
+     "pilot": "Jacquenette Farran",
+     "copilot": "Kelley Trussell",
+     "attendants": ["Brier Myatt", "Josias Blais", "Hephzibah Crickmore"]
+   },
+   "passenger_count": 142
+ },
+ {
+   "flight_number": "160",
+   "airline": "AA",
+   "departure_airport": "LAS",
+   "departure_time": "14:17 UTC",
+   "arrival_airport": "SFO",
+   "arrival_time": "15:26 UTC",
+   "crew": {
+     "pilot": "Dorisa Alexsandrovich",
+     "copilot": "Kelley Berndtsson",
+     "attendants": ["Knox Yankin", "Cchaddie Arkle", "Astra di Rocca"]
+   },
+   "passenger_count": 66
+ },
+ {
+   "flight_number": "178",
+   "airline": "DL",
+   "departure_airport": "SFO",
+   "departure_time": "18:04 UTC",
+   "arrival_airport": "PDX",
+   "arrival_time": "19:22 UTC",
+   "crew": {
+     "pilot": "Marshal Gower",
+     "copilot": "Meris McGeady",
+     "attendants": ["Bernadette Benoi", "Alyson Leivers", "Mitchell Church"]
+   },
+   "passenger_count": 156
+ },
+ {
+   "flight_number": "187",
+   "airline": "DL",
+   "departure_airport": "MSP",
+   "departure_time": "15:19 UTC",
+   "arrival_airport": "LAS",
+   "arrival_time": "18:13 UTC",
+   "crew": {
+     "pilot": "Katrinka Bruyntjes",
+     "copilot": "Bride Baptiste",
+     "attendants": ["Jim Ranyard", "Torrance Francombe", "Darby Detoile"]
+   },
+   "passenger_count": 76
+ },
+ {
+   "flight_number": "330",
+   "airline": "DL",
+   "departure_airport": "MSP",
+   "departure_time": "13:53 UTC",
+   "arrival_airport": "SFO",
+   "arrival_time": "16:29 UTC",
+   "crew": {
+     "pilot": "Deb Roskam",
+     "copilot": "Meris McGeady",
+     "attendants": ["Benji Leggitt", "Chelsey Adie", "Mercie Futty"]
+   },
+   "passenger_count": 90
+ },
+ {
+   "flight_number": "361",
+   "airline": "AS",
+   "departure_airport": "PDX",
+   "departure_time": "05:36 UTC",
+   "arrival_airport": "SEA",
+   "arrival_time": "06:13 UTC",
+   "crew": {
+     "pilot": "Electra Petyankin",
+     "copilot": "Killian Djorvic",
+     "attendants": ["Josie Cona", "Jerrome Raddan", "Ilario Bernocchi"]
+   },
+   "passenger_count": 148
+ },
+ {
+   "flight_number": "412",
+   "airline": "UA",
+   "departure_airport": "DFW",
+   "departure_time": "19:16 UTC",
+   "arrival_airport": "ATL",
+   "arrival_time": "20:54 UTC",
+   "crew": {
+     "pilot": "Jacquenette Farran",
+     "copilot": "Sella McKellen",
+     "attendants": ["Reinwald Teggart", "Tabby Thomson", "Shanie Cribbins"]
+   },
+   "passenger_count": 119
+ },
+ {
+   "flight_number": "499",
+   "airline": "UA",
+   "departure_airport": "JFK",
+   "departure_time": "04:55 UTC",
+   "arrival_airport": "LAS",
+   "arrival_time": "09:56 UTC",
+   "crew": {
+     "pilot": "Darrick Trudgeon",
+     "copilot": "Pepe Andrysiak",
+     "attendants": ["Carlynn Plascott", "Guglielmo Local", "Penni MacCallister"]
+   },
+   "passenger_count": 170
+ },
+ {
+   "flight_number": "559",
+   "airline": "AA",
+   "departure_airport": "IAD",
+   "departure_time": "13:37 UTC",
+   "arrival_airport": "JFK",
+   "arrival_time": "14:25 UTC",
+   "crew": {
+     "pilot": "Kirstin Blundin",
+     "copilot": "Morey Firminger",
+     "attendants": ["Manon Cominello", "Lionel Compson", "Mina Huggard"]
+   },
+   "passenger_count": 132
+ },
+ {
+   "flight_number": "619",
+   "airline": "UA",
+   "departure_airport": "ATL",
+   "departure_time": "21:37 UTC",
+   "arrival_airport": "DFW",
+   "arrival_time": "23:29 UTC",
+   "crew": {
+     "pilot": "Sella McKellen",
+     "copilot": "Mia Everritt",
+     "attendants": ["Abdel Kift", "Malva Kurth", "Gray Mantz"]
+   },
+   "passenger_count": 67
+ },
+ {
+   "flight_number": "630",
+   "airline": "AA",
+   "departure_airport": "IAD",
+   "departure_time": "13:29 UTC",
+   "arrival_airport": "ATL",
+   "arrival_time": "14:51 UTC",
+   "crew": {
+     "pilot": "Winn Castel",
+     "copilot": "Elianore Kamenar",
+     "attendants": ["Georgette Garahan", "Pedro Unwins", "Koo Keir"]
+   },
+   "passenger_count": 104
+ },
+ {
+   "flight_number": "647",
+   "airline": "DL",
+   "departure_airport": "MSP",
+   "departure_time": "13:23 UTC",
+   "arrival_airport": "SEA",
+   "arrival_time": "15:36 UTC",
+   "crew": {
+     "pilot": "Belia Lovegrove",
+     "copilot": "Belia Lovegrove",
+     "attendants": ["Gery Turfrey", "Ania Ruddiman", "Chelsie Pendall"]
+   },
+   "passenger_count": 72
+ },
+ {
+   "flight_number": "673",
+   "airline": "DL",
+   "departure_airport": "SFO",
+   "departure_time": "17:23 UTC",
+   "arrival_airport": "SEA",
+   "arrival_time": "18:58 UTC",
+   "crew": {
+     "pilot": "Pall Izod",
+     "copilot": "Gordy Flear",
+     "attendants": ["Vivianna Roffe", "Krystle Baiss", "Izaak Copcutt"]
+   },
+   "passenger_count": 141
+ },
+ {
+   "flight_number": "909",
+   "airline": "AA",
+   "departure_airport": "JFK",
+   "departure_time": "11:33 UTC",
+   "arrival_airport": "IAD",
+   "arrival_time": "12:20 UTC",
+   "crew": {
+     "pilot": "Gabbi Riddell",
+     "copilot": "Morey Firminger",
+     "attendants": ["Carol Sayers", "Otha Aloshechkin", "Ban Moreman"]
+   },
+   "passenger_count": 140
+ },
+ {
+   "flight_number": "924",
+   "airline": "DL",
+   "departure_airport": "ATL",
+   "departure_time": "10:00 UTC",
+   "arrival_airport": "MSP",
+   "arrival_time": "12:08 UTC",
+   "crew": {
+     "pilot": "Katrinka Bruyntjes",
+     "copilot": "Belia Lovegrove",
+     "attendants": ["Chris Briston", "Jonathon Dudill", "Marline Oades"]
+   },
+   "passenger_count": 137
+ },
+ {
+   "flight_number": "953",
+   "airline": "AA",
+   "departure_airport": "SEA",
+   "departure_time": "18:00 UTC",
+   "arrival_airport": "PDX",
+   "arrival_time": "18:34 UTC",
+   "crew": {
+     "pilot": "Howard Lanegran",
+     "copilot": "Christy Smales",
+     "attendants": ["Diahann Ride", "Ezechiel Dran", "Costa Ruller"]
+   },
+   "passenger_count": 107
+ },
+ {
+   "flight_number": "1046",
+   "airline": "DL",
+   "departure_airport": "LAS",
+   "departure_time": "19:39 UTC",
+   "arrival_airport": "PDX",
+   "arrival_time": "21:33 UTC",
+   "crew": {
+     "pilot": "Katrinka Bruyntjes",
+     "copilot": "Bride Baptiste",
+     "attendants": ["Meade Bealing", "Cordie Frensche", "Kati Lissandri"]
+   },
+   "passenger_count": 149
+ },
+ {
+   "flight_number": "1059",
+   "airline": "DL",
+   "departure_airport": "SEA",
+   "departure_time": "14:56 UTC",
+   "arrival_airport": "SFO",
+   "arrival_time": "16:39 UTC",
+   "crew": {
+     "pilot": "Marshal Gower",
+     "copilot": "Larine Mordie",
+     "attendants": ["Adelice Bartod", "Eilis Stannard", "Marylee Overel"]
+   },
+   "passenger_count": 103
+ },
+ {
+   "flight_number": "1263",
+   "airline": "AS",
+   "departure_airport": "PDX",
+   "departure_time": "07:38 UTC",
+   "arrival_airport": "SFO",
+   "arrival_time": "09:04 UTC",
+   "crew": {
+     "pilot": "Halli Scotchford",
+     "copilot": "Meris McGeady",
+     "attendants": ["Tye Amery", "Mellisa Jumel", "Bethena Pelz"]
+   },
+   "passenger_count": 114
+ },
+ {
+   "flight_number": "1313",
+   "airline": "AS",
+   "departure_airport": "PHL",
+   "departure_time": "14:23 UTC",
+   "arrival_airport": "MSP",
+   "arrival_time": "16:46 UTC",
+   "crew": {
+     "pilot": "Amalle Jowling",
+     "copilot": "Casey Brine",
+     "attendants": ["Adda Gieves", "Ardath Ells", "Gretel Wyman"]
+   },
+   "passenger_count": 149
+ },
+ {
+   "flight_number": "1355",
+   "airline": "AA",
+   "departure_airport": "SEA",
+   "departure_time": "07:03 UTC",
+   "arrival_airport": "PHL",
+   "arrival_time": "11:40 UTC",
+   "crew": {
+     "pilot": "Electra Petyankin",
+     "copilot": "Casey Brine",
+     "attendants": ["Devinne Mosson", "Jere Inchcomb", "Lindsay Afield"]
+   },
+   "passenger_count": 104
+ },
+ {
+   "flight_number": "1428",
+   "airline": "AA",
+   "departure_airport": "DFW",
+   "departure_time": "07:41 UTC",
+   "arrival_airport": "JFK",
+   "arrival_time": "10:41 UTC",
+   "crew": {
+     "pilot": "Inna Pentecust",
+     "copilot": "Orland Radenhurst",
+     "attendants": ["Adelaida Renouf", "Flora Baldi", "Paule D'Angeli"]
+   },
+   "passenger_count": 149
+ },
+ {
+   "flight_number": "1433",
+   "airline": "AA",
+   "departure_airport": "SEA",
+   "departure_time": "10:29 UTC",
+   "arrival_airport": "LAS",
+   "arrival_time": "12:28 UTC",
+   "crew": {
+     "pilot": "Howard Lanegran",
+     "copilot": "Kelley Berndtsson",
+     "attendants": ["Addy Cleever", "Moira Cullingworth", "Juditha Ivanishin"]
+   },
+   "passenger_count": 147
+ }
+]

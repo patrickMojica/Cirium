@@ -1,0 +1,17 @@
+{
+  "name": "cirium",
+  "version": "1.0.0",
+  "description": "Cirium take home coding challenge. Proceesses flight records, CrewMember class, Pilot flight stats",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/server.js"
+  },
+  "author": "",
+ 
+  "type": "commonjs",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
